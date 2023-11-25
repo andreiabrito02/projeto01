@@ -1,4 +1,4 @@
-{margin:0;padding: 0;}
+* {margin:0;padding: 0;}
 .cabeçalho {
     background-color:aliceblue;
 display: flex;
@@ -20,14 +20,13 @@ font-size: 24px;}
     align-items: center;
 }
 .escola-imagem{
-    width: 25%;
+    width: 200px;
 }
 .escola-titulo{
     padding: 24px 0;
 }
 body{
-font-family:Poppins;,sans-serif;
-}
+font-family:Poppins ; sans-serif;}
 .estudante-imagem{
     width: 120px;
 }
